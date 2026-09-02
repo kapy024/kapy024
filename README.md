@@ -1,10 +1,9 @@
+<h1 align="center">Hi, I'm Juan Manuel Capistrán 👋</h1>
 
-## Hi, I'm Juan Manuel Capistrán 👋
-
-  📍 Mexico City, Mexico · 
-  🏢 Cisco Systems · 
-  🗣️ Spanish (native) · English (professional)
-  Network Operations &amp; Automation Engineer</b>
+<p align="center">
+  📍 Mexico City, Mexico · 🏢 Cisco Systems · 🗣️ Spanish (native) · English (professional)<br/>
+  <b>Network Operations &amp; Automation Engineer</b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-IOS%20XR%20%7C%20IOS%20XE-1BA0D7?logo=cisco&logoColor=white" />
@@ -145,4 +144,21 @@ Cloud & DevOps practices (Cisco U learning paths)
 
 [![kapy024](https://gh-stats.com/api/kapy024)](https://gh-stats.com)
 
-[![snake](https://raw.githubusercontent.com/kapy024/kapy024/output/snake-dark.svg)]## Hi there 👋
+<h3 align="center">🐍 My contribution graph, eaten</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/kapy024/kapy024/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/kapy024/kapy024/output/snake.svg" />
+    <img alt="snake eating my GitHub contribution graph"
+         src="https://raw.githubusercontent.com/kapy024/kapy024/output/snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Generated every 12h by <a href="https://github.com/Platane/snk">Platane/snk</a> — because even the commit history deserves automation.</sub>
+</p>
+
+<p align="center"><i>Automating network operations, one script at a time. 🚀</i></p>
